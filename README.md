@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7DF1E&center=true&vCenter=true&width=500&lines=Hi+there,+I'm+Aditya+Sharma+👋;Full+Stack+Software+Engineer;Building+Pixel+Perfect+Apps;Code+Review+Rapper+🎤" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7DF1E&center=true&vCenter=true&width=500&lines=Hi+there,+I'm+Aditya+Sharma+👋" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -37,7 +37,6 @@ I'm a passionate full-stack developer who loves building clean, scalable web app
   <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adisxix&theme=dark" />
   <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adisxix&theme=dark" />
   <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adisxix&theme=dark" />
-  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=adisxix&theme=dark&utcOffset=5.5" />
 </div>
 
 <br/>
@@ -54,7 +53,7 @@ I'm a passionate full-stack developer who loves building clean, scalable web app
 ---
 
 ## 🤝 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/adisxix) [![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=flat&logo=github&logoColor=white)](https://github.com/adisxix) [![Email](https://img.shields.io/badge/Email-D14836.svg?style=flat&logo=gmail&logoColor=white)](mailto:adsharma.1953@gmail.com) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366.svg?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/+918882939119)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/adisxix) [![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=flat&logo=github&logoColor=white)](https://github.com/adisxix) [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:adsharma.1953@gmail.com) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/+918882939119)
 
 ---
 
