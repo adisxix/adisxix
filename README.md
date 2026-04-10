@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-I'm a passionate full-stack developer who loves building clean, scalable web applications from pixel-perfect frontends to robust backends.
+I'm a full-stack developer who loves building clean, scalable web applications from pixel-perfect frontends to robust backends.
 </p>
 
 - 🔭 I'm currently working on **frontend projects**, focusing on performance and user experience
@@ -58,7 +58,7 @@ I'm a passionate full-stack developer who loves building clean, scalable web app
 ---
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/adisxix) [![Telegram](https://img.shields.io/badge/Telegram-26A6E1?style=flat&logo=telegram&logoColor=white)](https://t.me/adisxix) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=flat&logo=Reddit&logoColor=white)](https://reddit.com/user/u/Aditya_1953) [![Snapchat](https://img.shields.io/badge/Snapchat-%23FFFC00.svg?style=flat&logo=snapchat&logoColor=black)](https://www.snapchat.com/add/adshxix) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=flat&logo=Pinterest&logoColor=white)](https://pinterest.com/adisxix) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat&logo=YouTube&logoColor=white)](https://youtube.com/@adisxix)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/adisxix) [![Telegram](https://img.shields.io/badge/Telegram-26A6E1?style=flat&logo=telegram&logoColor=white)](https://t.me/adisxix) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=flat&logo=Reddit&logoColor=white)](https://reddit.com/user/Aditya_1953) [![Snapchat](https://img.shields.io/badge/Snapchat-%23FFFC00.svg?style=flat&logo=snapchat&logoColor=black)](https://www.snapchat.com/add/adshxix) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=flat&logo=Pinterest&logoColor=white)](https://pinterest.com/adisxix) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat&logo=YouTube&logoColor=white)](https://youtube.com/@adisxix)
 
 ---
 
