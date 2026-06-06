@@ -6,7 +6,7 @@
 I'm a full-stack developer who loves building clean, scalable web applications from pixel-perfect frontends to robust backends.
 </p>
 
-- 🔭 I'm currently working on **frontend projects**, focusing on performance and user experience
+- 🔭 I'm currently working on **full-stack projects**, focusing on performance and user experience
 - 🌱 I'm currently learning **full-stack development** deepening my skills across the entire web stack
 - 👯 I'm looking to collaborate on **full-stack web applications** that solve real-world problems
 - 🤔 I'm looking for help with **advanced full-stack architecture and best practices**
