@@ -54,7 +54,7 @@ I'm a full-stack developer who loves building clean, scalable web applications f
 ---
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/adisxix) [![Telegram](https://img.shields.io/badge/Telegram-26A6E1?style=flat&logo=telegram&logoColor=white)](https://t.me/adisxix) [![Snapchat](https://img.shields.io/badge/Snapchat-%23FFFC00.svg?style=flat&logo=snapchat&logoColor=black)](https://www.snapchat.com/add/adshxix)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/adisxix) [![Telegram](https://img.shields.io/badge/Telegram-26A6E1?style=flat&logo=telegram&logoColor=white)](https://t.me/adisxix) [![Snapchat](https://img.shields.io/badge/Snapchat-%23FFFC00.svg?style=flat&logo=snapchat&logoColor=black)](https://www.snapchat.com/add/adixix)
 
 ---
 
