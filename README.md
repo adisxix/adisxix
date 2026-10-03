@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-I'm a full-stack developer who loves building clean, scalable web applications, from pixel-perfect frontends to robust backends. I enjoy turning real-world problems into fast, user-friendly products, and I'm always learning, refining my skills across the entire web stack with a focus on performance and user experience. Ask me about full-stack engineering, web development, or anything JavaScript, and yes, I'm still convinced I can rap. 🎤
+I'm a full-stack developer who loves building clean, scalable web applications, from pixel-perfect frontends to robust backends. I enjoy turning real-world problems into fast, user-friendly products, and I'm always learning, refining my skills across the entire web stack with a focus on performance and user experience. Ask me about full-stack engineering, web development, or anything JavaScript.
 
 <br/>
 
@@ -60,4 +60,5 @@ I'm a full-stack developer who loves building clean, scalable web applications, 
 ![Profile Views](https://komarev.com/ghpvc/?username=adisxix&color=brightgreen&style=flat)
 
 ---
+
 💡 Let's connect and build something awesome together 🚀
