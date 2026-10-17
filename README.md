@@ -10,7 +10,8 @@ I'm a full-stack developer who loves building clean, scalable web applications, 
 
 <br/>
 
-[![Resume](https://img.shields.io/badge/Resume-F7DF1E?style=for-the-badge&logo=googledrive&logoColor=black)]([https://drive.google.com/file/d/1VTbljWIrFZzYazAMl_lRaQb_bTqaG8jq/view?usp=sharing](https://drive.google.com/file/d/1CKN0kvosXiyk_Ss7VUe74X8LIK1ZzBkz/view?usp=sharing)) [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://adisxix.vercel.app/)
+[![Resume](https://img.shields.io/badge/Resume-F7DF1E?style=for-the-badge&logo=googledrive&logoColor=black)](https://drive.google.com/file/d/1CKN0kvosXiyk_Ss7VUe74X8LIK1ZzBkz/view?usp=sharing)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://adisxix.vercel.app/)
 
 ---
 
@@ -31,6 +32,7 @@ I'm a full-stack developer who loves building clean, scalable web applications, 
 ---
 
 # 📊 GitHub Stats:
+
 <div align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=adisxix&theme=dark" />
 </div>
@@ -47,16 +49,27 @@ I'm a full-stack developer who loves building clean, scalable web applications, 
 ---
 
 ## 🤝 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adisxix) [![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adisxix) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adsharma.1953@gmail.com) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+918882939119) [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://adisxix.vercel.app/)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adisxix)
+[![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adisxix)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adsharma.1953@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/918882939119)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://adisxix.vercel.app/)
 
 ---
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/adisxix) [![Telegram](https://img.shields.io/badge/Telegram-26A6E1?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/adisxix) [![Snapchat](https://img.shields.io/badge/Snapchat-%23FFFC00.svg?style=for-the-badge&logo=snapchat&logoColor=black)](https://www.snapchat.com/add/adixix) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white)](https://pin.it/1yr0PvVjR) [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/pt7tg0xxt5cmo96serlahnc0c?si=3bd8d519255e4c6f)
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/adisxix)
+[![Telegram](https://img.shields.io/badge/Telegram-26A6E1?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/adisxix)
+[![Snapchat](https://img.shields.io/badge/Snapchat-%23FFFC00.svg?style=for-the-badge&logo=snapchat&logoColor=black)](https://www.snapchat.com/add/adixix)
+[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white)](https://pin.it/1yr0PvVjR)
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/pt7tg0xxt5cmo96serlahnc0c?si=3bd8d519255e4c6f)
 
 ---
 
 ### 👀 Profile Views:
+
 ![Profile Views](https://komarev.com/ghpvc/?username=adisxix&color=brightgreen&style=for-the-badge)
 
 ---
