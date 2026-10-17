@@ -10,7 +10,7 @@ I'm a full-stack developer who loves building clean, scalable web applications, 
 
 <br/>
 
-[![Resume](https://img.shields.io/badge/Resume-F7DF1E?style=for-the-badge&logo=googledrive&logoColor=black)](https://drive.google.com/file/d/1VTbljWIrFZzYazAMl_lRaQb_bTqaG8jq/view?usp=sharing) [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://adisxix.vercel.app/)
+[![Resume](https://img.shields.io/badge/Resume-F7DF1E?style=for-the-badge&logo=googledrive&logoColor=black)]([https://drive.google.com/file/d/1VTbljWIrFZzYazAMl_lRaQb_bTqaG8jq/view?usp=sharing](https://drive.google.com/file/d/1CKN0kvosXiyk_Ss7VUe74X8LIK1ZzBkz/view?usp=sharing)) [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://adisxix.vercel.app/)
 
 ---
 
